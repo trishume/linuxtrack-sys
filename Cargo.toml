@@ -1,6 +1,6 @@
 [package]
 name = "linuxtrack-sys"
-version = "0.1.0"
+version = "1.0.0"
 links = "linuxtrackc"
 build = "build.rs"
 authors = ["Tristan Hume <tristan@thume.ca>"]
