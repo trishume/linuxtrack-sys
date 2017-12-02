@@ -1,11 +1,11 @@
 [package]
 name = "linuxtrack-sys"
-version = "1.0.0"
+version = "1.0.1"
 links = "linuxtrackc"
 build = "build.rs"
 authors = ["Tristan Hume <tristan@thume.ca>"]
 license = "MIT"
-repository = "https://github.com/trishume/linuxtrack-rs"
+repository = "https://github.com/trishume/linuxtrack-sys"
 documentation = "https://docs.rs/linuxtrack-sys"
 description = """
 Bindings to the linuxtrack.c client library for head tracking.
